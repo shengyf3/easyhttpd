@@ -27,3 +27,6 @@ easyhttpd.exe -r ./ -p :8888
 - [x]  file read and write
 - [x]  host ip address
 - [x]  multi platform cross compilation
+
+------------------------------
+作者介绍文章： 静态WEB容器镜像最小化实践 [https://blog.mengz.dev/posts/devops/docker-image-smallest-static-web-server/]
